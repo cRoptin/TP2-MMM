@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MMMTP2</string>
+    <string name="scn_app">display</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Name</string>
+    <string name="valider">Valider</string>
+    <string name="action_options">Options</string>
+    <string name="init_form">Initialiser</string>
+    <string name="add_number">Ajouter un numéro</string>
+    <string name="wiki">Wikipedia</string>
+    <string name="title_activity_display">DisplayActivity</string>
+    <string name="title_activity_add_client">AddClient</string>
+</resources>

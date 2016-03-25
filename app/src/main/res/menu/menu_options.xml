@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="fr.istic.mmmtp1.MainActivity">
+    <item
+        android:id="@+id/action_options"
+        android:orderInCategory="1"
+        android:title="@string/action_options"
+        app:showAsAction="never">
+
+        <menu>
+            <item android:id="@+id/init_form"
+                android:title="@string/init_form" />
+            <item android:id="@+id/add_number"
+                android:title="@string/add_number" />
+            <item android:id="@+id/wikigo"
+                android:title="@string/wiki" />
+        </menu>
+
+    </item>
+</menu>
